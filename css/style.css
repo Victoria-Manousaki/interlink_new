@@ -662,7 +662,7 @@ a:focus {
   display: flex;
 }
 
-.info_section .info_social img {
+.info_section .info_social img { 
   width: 35px;
   margin-right: 8px;
 }
