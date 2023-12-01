@@ -288,7 +288,7 @@ a:focus {
 
 .slider_section .carousel-control-next {
   background-image: url(../images/next.png);
-  background-color: #4b208c;
+  background-color: #1e81b0;
   -webkit-transform: translate(-45px, 0);
           transform: translate(-45px, 0);
 }
