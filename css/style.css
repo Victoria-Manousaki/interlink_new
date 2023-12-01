@@ -357,7 +357,7 @@ a:focus {
 }
 
 .service_section .service_container .box:hover, .service_section .service_container .box.active {
-  border-top: 15px solid #512a97;
+  border-top: 15px solid #063970;
 }
 
 .service_section .btn-box {
@@ -440,7 +440,7 @@ a:focus {
 }
 
 .about_section .detail-box a:hover {
-  background-color: #5625a1;
+  background-color: #063970;
 }
 
 .blog_section .heading_container {
@@ -529,7 +529,7 @@ a:focus {
 }
 
 .contact_section button:hover {
-  background-color: #5625a1;
+  background-color: #063970;
 }
 
 .contact_section .map_container {
@@ -647,7 +647,7 @@ a:focus {
 }
 
 .info_section .info_form form button:hover {
-  background-color: #5625a1;
+  background-color: #063970;
 }
 
 .info_section .box {
