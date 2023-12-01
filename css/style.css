@@ -167,7 +167,7 @@ a:focus {
   display: block;
   width: 35px;
   height: 4px;
-  background-color: #190734;
+  background-color: #3384ac;
   margin: 7px 0;
   -webkit-transition: all .3s;
   transition: all .3s;
@@ -245,7 +245,7 @@ a:focus {
 }
 
 .slider_section .detail_box a:hover {
-  background-color: #3384ac;
+  background-color: #5625a1;
 }
 
 .slider_section .img_container {
