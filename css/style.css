@@ -90,7 +90,7 @@ body {
 }
 
 .custom_nav-container .navbar-nav .nav-item.active .nav-link, .custom_nav-container .navbar-nav .nav-item:hover .nav-link {
-  background-color: #4b208c;
+  background-color: #3384ac;
   color: #ffffff;
 }
 
@@ -140,7 +140,7 @@ a:focus {
 .navbar-brand span {
   font-size: 22px;
   font-weight: 700;
-  color: #4b208c;
+  color: #3384ac;
 }
 
 .custom_nav-container {
