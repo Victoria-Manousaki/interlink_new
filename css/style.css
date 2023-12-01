@@ -499,19 +499,19 @@ a:focus {
 }
 
 .contact_section input::-webkit-input-placeholder {
-  color: #737272;
+  color: #063970;
 }
 
 .contact_section input:-ms-input-placeholder {
-  color: #737272;
+  color: #063970;
 }
 
 .contact_section input::-ms-input-placeholder {
-  color: #737272;
+  color: #063970;
 }
 
 .contact_section input::placeholder {
-  color: #737272;
+  color: #063970;
 }
 
 .contact_section input.message-box {
