@@ -251,7 +251,7 @@ a:focus {
 .slider_section .img_container {
   border: 7px solid #1e81b0;
   border-radius: 100%;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .slider_section .img_container div#carouselExampleContarols {
