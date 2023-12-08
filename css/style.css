@@ -476,6 +476,74 @@ a:focus {
   font-weight: bold;
 }
 
+
+
+
+
+
+.events_section {
+  background-color: #c5dce7;
+}
+
+.events_section .row {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.events_section .img_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.events_section .img_container .img-box {
+  border: 5px solid #1e81b0;
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+.events_section .img_container .img-box.b1 {
+  width: 70%;
+}
+
+.events_section .img_container .img-box.b2 {
+  width: 50%;
+  margin-left: auto;
+  margin-top: -12%;
+}
+
+.events_section .img_container .img-box img {
+  width: 100%;
+}
+
+.events_section .detail-box {
+  margin-right: 15%;
+}
+
+.events_section .detail-box p {
+  margin-top: 25px;
+}
+
+.events_section .detail-box a {
+  display: inline-block;
+  padding: 10px 35px;
+  background-color: #4b208c;
+  color: #ffffff;
+  border-radius: 5px;
+  margin: 25px 0 45px 0;
+}
+
+.events_section .detail-box a:hover {
+  background-color: #063970;
+
+
+
+
 .contact_section {
   position: relative;
 }
