@@ -492,15 +492,15 @@ a:focus {
 }
 
 
-.events_section .detail-box {
+.events_section .detail-box2 {
   margin-right: 15%;
 }
 
-.events_section .detail-box p {
+.events_section .detail-box2 p {
   margin-top: 25px;
 }
 
-.events_section .detail-box a {
+.events_section .detail-box2 a {
   display: inline-block;
   padding: 10px 35px;
   background-color: #4b208c;
@@ -509,7 +509,7 @@ a:focus {
   margin: 0px 0 0px 0;
 }
 
-.events_section .detail-box a:hover {
+.events_section .detail-box2 a:hover {
   background-color: #063970;
 }
 
