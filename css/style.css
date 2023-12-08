@@ -491,35 +491,6 @@ a:focus {
           align-items: center;
 }
 
-.events_section .img_container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
-
-.events_section .img_container .img-box {
-  border: 5px solid #1e81b0;
-  border-radius: 100%;
-  overflow: hidden;
-}
-
-.events_section .img_container .img-box.b1 {
-  width: 0%;
-}
-
-.events_section .img_container .img-box.b2 {
-  width: 0%;
-  margin-left: auto;
-  margin-top: -12%;
-}
-
-.events_section .img_container .img-box img {
-  width: 0%;
-}
 
 .events_section .detail-box {
   margin-right: 15%;
