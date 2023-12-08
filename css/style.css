@@ -443,6 +443,14 @@ a:focus {
   background-color: #063970;
 }
 
+
+
+
+
+
+
+
+
 .blog_section .heading_container {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -469,7 +477,7 @@ a:focus {
 }
 
 .blog_section .box .detail-box {
-  padding: 25px 25px 15px;
+  padding: 25px 25px 15px 15px;
 }
 
 .blog_section .box .detail-box h5 {
