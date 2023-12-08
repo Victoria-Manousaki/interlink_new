@@ -508,17 +508,17 @@ a:focus {
 }
 
 .events_section .img_container .img-box.b1 {
-  width: 70%;
+  width: 0%;
 }
 
 .events_section .img_container .img-box.b2 {
-  width: 50%;
+  width: 0%;
   margin-left: auto;
   margin-top: -12%;
 }
 
 .events_section .img_container .img-box img {
-  width: 100%;
+  width: 0%;
 }
 
 .events_section .detail-box {
