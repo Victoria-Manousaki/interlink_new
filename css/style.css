@@ -470,6 +470,8 @@ a:focus {
 
 .blog_section .box .img-box {
   position: center;
+  width: 80%;
+  height: 80%;
 }
 
 .blog_section .box .img-box img {
