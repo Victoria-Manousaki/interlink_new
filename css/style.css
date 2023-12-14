@@ -475,7 +475,9 @@ a:focus {
 }
 
 .blog_section .box .img-box img {
+  position: center;
   width: 100%;
+  height: 80%;
 }
 
 .blog_section .box .detail-box {
